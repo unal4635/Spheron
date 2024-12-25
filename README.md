@@ -4,7 +4,7 @@
 
 <img width="933" alt="Ekran Resmi 2024-10-04 22 19 25" src="https://github.com/user-attachments/assets/717f26b1-4a10-475f-ba9b-f5e488127e06">
 
-> Donanım olarak 4 vCPU 8 RAM bir sunucu kullandım.
+> Donanım olarak minimum 4 vCPU 8 RAM bir sunucu öneririm.
 
 > Kurulumu hatırladığım kadarıyla yazıyorum 3 gün önce kurdum net aklımda değil her step, zaten kolay yaparsınız siz.
 
